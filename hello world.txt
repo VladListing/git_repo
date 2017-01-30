@@ -4,3 +4,5 @@ print ("Every Body")
 
 
 print ("домашее задание по изминению содержимого")
+
+print ("hello")
